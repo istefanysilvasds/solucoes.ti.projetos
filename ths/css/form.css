@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100&display=swap');
+
+*{
+
+    margin: 0;
+    padding: 0;
+    font-family: 'Noto Sans JP', sans-serif;
+    margin: auto;
+    
+}
+
+h2{
+
+    text-align: center;
+    margin-top: 40%;
+    
+    
+}
+
+form{
+
+    height: 400px;
+    width: 500px;
+    text-align: center;
+    background-color: rgba(178, 198, 211, 0.8)
+    
+    
+}
+
+input{
+  
+    
+    text-align: center;
+    margin-top: 50px;
+
+}
+ 
+button{
+
+  height: 40px;
+  width: 50px;
+  background-color:white ;
+  border: none;
+  color: black;
+
+}
+
+.caixa{
+  
+  width: 300px;
+   
+}
+
+body{
+
+    background-image: url(../img/eye-2771174_1920.jpg);
+    background-size: cover;
+}
+
+
